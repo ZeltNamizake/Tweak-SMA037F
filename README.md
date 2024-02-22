@@ -40,6 +40,8 @@ Tweak Performance Samsung A03S - Termux Root
 
 `tsu`  for superuser mode and Run Tweak
 
+`chmod +x mode-performance.sh && chmod +x mode-powersave.sh`
+
 ### Run High Performance Mode
 `./mode-performance.sh`
 
